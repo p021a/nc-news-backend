@@ -1,38 +1,52 @@
 module.exports = [
   {
-    username: 'tickle122',
-    name: 'Tom Tickle',
-    avatar_url:
-      'https://vignette.wikia.nocookie.net/mrmen/images/d/d6/Mr-Tickle-9a.png/revision/latest?cb=20180127221953'
+    username: "james_anderson",
+    name: "James Anderson",
+    avatar_url: "https://i.pravatar.cc/300?img=12",
   },
   {
-    username: 'grumpy19',
-    name: 'Paul Grump',
-    avatar_url:
-      'https://vignette.wikia.nocookie.net/mrmen/images/7/78/Mr-Grumpy-3A.PNG/revision/latest?cb=20170707233013'
+    username: "oliver_brown",
+    name: "Oliver Brown",
+    avatar_url: "https://i.pravatar.cc/300?img=13",
   },
   {
-    username: 'happyamy2016',
-    name: 'Amy Happy',
-    avatar_url:
-      'https://vignette1.wikia.nocookie.net/mrmen/images/7/7f/Mr_Happy.jpg/revision/latest?cb=20140102171729'
+    username: "ethan_clark",
+    name: "Ethan Clark",
+    avatar_url: "https://i.pravatar.cc/300?img=14",
   },
   {
-    username: 'cooljmessy',
-    name: 'Peter Messy',
-    avatar_url:
-      'https://vignette.wikia.nocookie.net/mrmen/images/1/1a/MR_MESSY_4A.jpg/revision/latest/scale-to-width-down/250?cb=20170730171002'
+    username: "liam_hughes",
+    name: "Liam Hughes",
+    avatar_url: "https://i.pravatar.cc/300?img=15",
   },
   {
-    username: 'weegembump',
-    name: 'Gemma Bump',
-    avatar_url:
-      'https://vignette.wikia.nocookie.net/mrmen/images/7/7e/MrMen-Bump.png/revision/latest?cb=20180123225553'
+    username: "noah_patel",
+    name: "Noah Patel",
+    avatar_url: "https://i.pravatar.cc/300?img=16",
   },
   {
-    username: 'jessjelly',
-    name: 'Jess Jelly',
-    avatar_url:
-      'https://vignette.wikia.nocookie.net/mrmen/images/4/4f/MR_JELLY_4A.jpg/revision/latest?cb=20180104121141'
-  }
+    username: "sophie_turner",
+    name: "Sophie Turner",
+    avatar_url: "https://i.pravatar.cc/300?img=17",
+  },
+  {
+    username: "daniel_kim",
+    name: "Daniel Kim",
+    avatar_url: "https://i.pravatar.cc/300?img=18",
+  },
+  {
+    username: "emma_wilson",
+    name: "Emma Wilson",
+    avatar_url: "https://i.pravatar.cc/300?img=19",
+  },
+  {
+    username: "jasmine_carter",
+    name: "Jasmine Carter",
+    avatar_url: "https://i.pravatar.cc/300?img=20",
+  },
+  {
+    username: "olivia_davis",
+    name: "Olivia Davis",
+    avatar_url: "https://i.pravatar.cc/300?img=21",
+  },
 ];
